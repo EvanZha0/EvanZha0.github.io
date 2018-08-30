@@ -3,7 +3,7 @@ layout:     post
 title:      java 进阶
 subtitle:   java-jdk-install
 date:       2018-08-30
-author:     BY
+author:     evan
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
@@ -13,10 +13,6 @@ tags:
 ---
 # 前言
 
-
-
-
-# sonartype nexus
 
 ## Wget 下载最新快照
 
