@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ca8f104-dcb9-4bd3-8c48-dde6164b819d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-08-31-mysql主从复制.md" afterPath="$PROJECT_DIR$/_posts/2018-08-31-mysql主从复制.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-Mysql优化.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="66">
-                <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="24" />
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -197,8 +196,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-08-31-mysql主从复制.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-462">
-                <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -443,12 +442,12 @@
       <workItem from="1535680902888" duration="174000" />
       <workItem from="1535684315723" duration="443000" />
       <workItem from="1535685228819" duration="3707000" />
-      <workItem from="1535699211610" duration="65000" />
+      <workItem from="1535699211610" duration="710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13027000" />
+    <option name="totallyTimeSpent" value="13672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -889,8 +888,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-30-Mysql优化.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="24" />
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
@@ -900,8 +899,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-31-mysql主从复制.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-462">
-            <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />
